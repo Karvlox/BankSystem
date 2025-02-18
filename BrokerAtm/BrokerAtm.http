@@ -1,0 +1,6 @@
+@BrokerAtm_HostAddress = http://localhost:5234
+
+GET {{BrokerAtm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

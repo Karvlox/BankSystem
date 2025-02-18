@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6wZ/UGKXz85ROsvbTAU1ZYCGSvDteyWCUpAPGVCXBg0=",
+  "Source": "BrokerAtm",
+  "BasePath": "_content/BrokerAtm",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
