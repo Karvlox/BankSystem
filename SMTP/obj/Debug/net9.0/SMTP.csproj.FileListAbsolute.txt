@@ -1,0 +1,14 @@
+D:\Projects\Guille\SMTP\bin\Debug\net9.0\SMTP.exe
+D:\Projects\Guille\SMTP\bin\Debug\net9.0\SMTP.deps.json
+D:\Projects\Guille\SMTP\bin\Debug\net9.0\SMTP.runtimeconfig.json
+D:\Projects\Guille\SMTP\bin\Debug\net9.0\SMTP.dll
+D:\Projects\Guille\SMTP\bin\Debug\net9.0\SMTP.pdb
+D:\Projects\Guille\SMTP\obj\Debug\net9.0\SMTP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Guille\SMTP\obj\Debug\net9.0\SMTP.AssemblyInfoInputs.cache
+D:\Projects\Guille\SMTP\obj\Debug\net9.0\SMTP.AssemblyInfo.cs
+D:\Projects\Guille\SMTP\obj\Debug\net9.0\SMTP.csproj.CoreCompileInputs.cache
+D:\Projects\Guille\SMTP\obj\Debug\net9.0\SMTP.dll
+D:\Projects\Guille\SMTP\obj\Debug\net9.0\refint\SMTP.dll
+D:\Projects\Guille\SMTP\obj\Debug\net9.0\SMTP.pdb
+D:\Projects\Guille\SMTP\obj\Debug\net9.0\SMTP.genruntimeconfig.cache
+D:\Projects\Guille\SMTP\obj\Debug\net9.0\ref\SMTP.dll
