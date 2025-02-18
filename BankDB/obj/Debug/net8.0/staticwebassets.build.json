@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AJ8EvMwr7ioZc4dy4bFy4DhMbn8Exsyr7cEKH/N58jQ=",
+  "Source": "BankDB",
+  "BasePath": "_content/BankDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
